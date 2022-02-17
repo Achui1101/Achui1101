@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achui1101
-- 👀 I’m interested in Sec and Dev
-- 🌱 I’m currently learning Linux
+- 👀 I’m interested Development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me: never
 
